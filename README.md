@@ -34,6 +34,9 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/vscode-icons:file-type-gitlab.svg?color=%23ffffff" style="height: 1em;"> [On GitLab](https://gitlab.com/s-ilent/filamented)
 - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRC Light Volumes](https://github.com/REDSIM/VRCLightVolumes) by RED_SIM
 - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [Udon Voice Utilities](https://github.com/Guribo/UdonVoiceUtils) by Guribo
+- YamaPlayer by yamadev
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [On BOOTH](https://yamadev.booth.pm/items/4768863)
+  - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [On GitHub](https://github.com/koorimizuw/YamaPlayer)
 - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRCX](https://github.com/vrcx-team/VRCX)
 - Other Furality World-building Panels
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Basics of Optimizing VRChat Worlds](https://www.youtube.com/watch?v=AQIJhVw2g-Q) by MyroP (Furality Somna)
