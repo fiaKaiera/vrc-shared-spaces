@@ -34,6 +34,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/vscode-icons:file-type-gitlab.svg?color=%23ffffff" style="height: 1em;"> [On GitLab](https://gitlab.com/s-ilent/filamented)
 - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRC Light Volumes](https://github.com/REDSIM/VRCLightVolumes) by RED_SIM
 - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [Udon Voice Utilities](https://github.com/Guribo/UdonVoiceUtils) by Guribo
+- <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRCX](https://github.com/vrcx-team/VRCX)
 - Other Furality World-building Panels
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Basics of Optimizing VRChat Worlds](https://www.youtube.com/watch?v=AQIJhVw2g-Q) by MyroP (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UI, UX and Accessible VR World Design](https://www.youtube.com/watch?v=PJuztLbWTmA) by Nidonocu (Furality Somna)
@@ -42,6 +43,9 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Building Better VRChat Worlds: A Beginner's Guide!](https://www.youtube.com/watch?v=uydb50pnbVQ) by Wishdream (Furality Sylva)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UdonSharp Crash Course For Beginners](https://www.youtube.com/watch?v=bxVfIGcqVR4) by akalink (Furality Aqua)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Making Immersive Worlds 101: Atmospheric Design](https://www.youtube.com/watch?v=aK2pwAWfVM4) by Wishdream (Furality Aqua)
+- Worlds Featured
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Oysm Inn](https://vrchat.com/home/world/wrld_6c3d9b41-1cc3-4f8d-9081-7ead17bf232f) by aphex503
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> Hop Cat Hometown by fiaKaiera (Private World)
 
 ## Credits
 - QR Code generated from [delphi.tools](https://delphi.tools/tools/qr-genny)
