@@ -66,7 +66,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 - Icons: [Icônes](https://icones.js.org)
 - Fonts: [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next) and [Atkinson Hyperlegible Mono](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono)
 - QR Codes: [delphi.tools](https://delphi.tools/tools/qr-genny)
-- Code Highlighting: [hilite.me](https://hilite.me) (in `github-dark` style)
+- Code Highlighting: [hilite.me](https://hilite.me) (in `github-dark` style) (thanks to [Happyrobot33](https://github.com/Happyrobot33) for mentioning this in their [Furality panel](https://www.youtube.com/watch?v=qjFZ6ggEkJc)!)
 - Big shoutout: [Wishdream](https://wishdream.org) for helping me guide on making this presentation
 - Avatar Base: <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた)
   - fiaKaiera makes <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [clothing for Etoigne](https://fiakaiera.booth.pm) too!
