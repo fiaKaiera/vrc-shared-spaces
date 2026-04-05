@@ -1,4 +1,6 @@
 # A Shared Home: How to Live with Friends in VRChat
+<kbd><img src="https://avatars.githubusercontent.com/u/15869263?v=4&size=64" style="height: 3em"></kbd> by [fiaKaiera](https://kaiera.furria.net)
+
 This is the hub for everything related to fiaKaiera's [Furality](https://furality.org/online-xperience) panel about living together with friends in VRChat within one world as a home.
 
 - **Videos**
@@ -59,11 +61,12 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> Hop Cat Hometown by fiaKaiera (Private World)
 
 ## Credits
-- QR Code generated from [delphi.tools](https://delphi.tools/tools/qr-genny)
-- Screenshots and images are provided by fiaKaiera
-  - Some memes are just found on the internet
-- Icons used from [Icônes](https://icones.js.org)
-- Font used are [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next) and [Atkinson Hyperlegible Mono](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono)
-- Big shoutouts to [Wishdream](https://wishdream.org) for helping me guide on making this presentation
+- Presentation, Screenshots, Images: [fiaKaiera](https://kaiera.furria.net)
+  - The memes are just found randomly on the internet
+- Icons: [Icônes](https://icones.js.org)
+- Fonts: [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next) and [Atkinson Hyperlegible Mono](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono)
+- QR Codes: [delphi.tools](https://delphi.tools/tools/qr-genny)
+- Code Highlighting: [hilite.me](https://hilite.me) (in `github-dark` style)
+- Big shoutout: [Wishdream](https://wishdream.org) for helping me guide on making this presentation
 - Avatar Base: <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた)
   - fiaKaiera makes <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [clothing for Etoigne](https://fiakaiera.booth.pm) too!
