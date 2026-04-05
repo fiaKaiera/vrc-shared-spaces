@@ -3,29 +3,37 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 
 - **Videos**
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> On Furality (not yet available, [check their channel](https://www.youtube.com/@Furality) if they have uploaded it!)
+  - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> Early VOD (not yet available)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> Viewer-friendly Presentational Video (not yet made)
 
 - **Furality Presentation**
   - As presented:
     [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff"> [via Google Slides](https://docs.google.com/presentation/d/1VY4hsQ7psvVzPkKbNsQF5K_pERHWFHBQU1qWBRBk3uE/edit?usp=sharing) ]
     [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> PDF Download ]
-  - W/o the fluff: 
+  - w/o the fluff: 
     [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff"> [via Google Slides](https://docs.google.com/presentation/d/1VY4hsQ7psvVzPkKbNsQF5K_pERHWFHBQU1qWBRBk3uE/edit?usp=sharing) ]
     [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> PDF Download ]
 
 - [**Wiki**](https://github.com/fiaKaiera/vrc-shared-spaces/wiki)
-  - This is a very reader-friendly version of the entire talk, separated into segments
+  - This is a very reader-friendly and thorough version of the entire talk, separated into segments
   - VRChat-side (Getting Inside)
     - As Host
     - Sharing With Everyone
+      - Creating Shortcuts (PC, Steam, Android, iOS, etc.)
+    - Other Use Cases
   - World-building (Magic of a Village)
     - How It Works
+      - Code Examples
     - Considerations
+      - Privacy
+      - Optimization
+  - Questions asked by the community
 
 <a href='https://ko-fi.com/fiaKaiera' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Resources
 - The [wiki](https://github.com/fiaKaiera/vrc-shared-spaces/wiki) for this talk
+- <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRCX](https://github.com/vrcx-team/VRCX)
 - Spawn Systems
   - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [fiaKaiera's Unique Spawnpoints](https://github.com/fiaKaiera/vpm-listing/blob/main/Packages/net.fiakaiera.spawnpoints/README.md) (GitHub, available to add on VCC/ALCOM)
   - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [AiTech Dynamic Personalized Spawn System](https://aikatsuyuri.booth.pm/items/4486666) (BOOTH)
@@ -37,7 +45,6 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 - YamaPlayer by yamadev
   - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [On BOOTH](https://yamadev.booth.pm/items/4768863)
   - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [On GitHub](https://github.com/koorimizuw/YamaPlayer)
-- <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRCX](https://github.com/vrcx-team/VRCX)
 - Other Furality World-building Panels
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Basics of Optimizing VRChat Worlds](https://www.youtube.com/watch?v=AQIJhVw2g-Q) by MyroP (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UI, UX and Accessible VR World Design](https://www.youtube.com/watch?v=PJuztLbWTmA) by Nidonocu (Furality Somna)
@@ -47,12 +54,16 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UdonSharp Crash Course For Beginners](https://www.youtube.com/watch?v=bxVfIGcqVR4) by akalink (Furality Aqua)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Making Immersive Worlds 101: Atmospheric Design](https://www.youtube.com/watch?v=aK2pwAWfVM4) by Wishdream (Furality Aqua)
 - Worlds Featured
-  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Oysm Inn](https://vrchat.com/home/world/wrld_6c3d9b41-1cc3-4f8d-9081-7ead17bf232f) by aphex503
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Oysm Inn](https://vrchat.com/home/world/wrld_6c3d9b41-1cc3-4f8d-9081-7ead17bf232f) by aphex503 (used in the intro slides)
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Froggy Chair](https://vrchat.com/home/world/wrld_22aebce4-8454-43f9-a4cb-f2702ec480a8) by fiaKaiera
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> Hop Cat Hometown by fiaKaiera (Private World)
 
 ## Credits
 - QR Code generated from [delphi.tools](https://delphi.tools/tools/qr-genny)
+- Screenshots and images are provided by fiaKaiera
+  - Some memes are just found on the internet
 - Icons used from [Icônes](https://icones.js.org)
+- Font used are [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next) and [Atkinson Hyperlegible Mono](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono)
 - Big shoutouts to [Wishdream](https://wishdream.org) for helping me guide on making this presentation
 - Avatar Base: <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた)
   - fiaKaiera makes <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [clothing for Etoigne](https://fiakaiera.booth.pm) too!
