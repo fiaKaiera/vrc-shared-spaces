@@ -50,6 +50,8 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [On BOOTH](https://yamadev.booth.pm/items/4768863)
 <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [On GitHub](https://github.com/koorimizuw/YamaPlayer)
 - Other Furality World-building Panels
+  - Introduction to Lighting in Unity (Built-in RP) by MyroP (Furality Ultra)
+  - Udon#: From Simple to Synced by ImmortalTheOwl (Furality Ultra)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Basics of Optimizing VRChat Worlds](https://www.youtube.com/watch?v=AQIJhVw2g-Q) by MyroP (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UI, UX and Accessible VR World Design](https://www.youtube.com/watch?v=PJuztLbWTmA) by Nidonocu (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Udon Development: From First Steps to Optimization](https://www.youtube.com/watch?v=qjFZ6ggEkJc) by Happyrobot33 (Furality Umbra)
@@ -66,7 +68,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 ## Credits
 - Presentation, Screenshots, Images: [fiaKaiera](https://kaiera.furria.net)
   - The memes are just found randomly on the internet
-- "1,667,417,500 Polygons" Thumbnail: [I Made the Yandere Simulator Toothbrush MUCH Worse by bytedozer](https://www.youtube.com/watch?v=lqqXtrnr6L4)
+- "1,667,417,500 Polygons" Thumbnail: [I Made the Yandere Simulator Toothbrush MUCH Worse](https://www.youtube.com/watch?v=lqqXtrnr6L4) by bytedozer
 - Icons: [Icônes](https://icones.js.org)
 - Fonts: [Atkinson Hyperlegible Next](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next) and [Atkinson Hyperlegible Mono](https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono)
 - QR Codes: [delphi.tools](https://delphi.tools/tools/qr-genny)
