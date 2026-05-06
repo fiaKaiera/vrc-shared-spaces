@@ -64,6 +64,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Froggy Chair](https://vrchat.com/home/world/wrld_22aebce4-8454-43f9-a4cb-f2702ec480a8) by fiaKaiera
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> Hop Cat Hometown by fiaKaiera (Private World)
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Retreat of Haze カスミノカクレガ](https://vrchat.com/home/world/wrld_e9db55c1-728c-4921-9cb0-fb461546cb73) by GinGira
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [New Generation ⁄ 新世代](https://vrchat.com/home/world/wrld_9936b6ff-e523-4066-9e40-a333320ff5d3) by _Harim
 
 ## Credits
 - Presentation, Screenshots, Images: [fiaKaiera](https://kaiera.furria.net)
