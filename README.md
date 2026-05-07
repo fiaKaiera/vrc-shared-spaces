@@ -42,6 +42,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRC Light Volumes](https://github.com/REDSIM/VRCLightVolumes) by RED_SIM
 - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [Udon Voice Utilities](https://github.com/Guribo/UdonVoiceUtils) by Guribo
 - Unmentioned World Tool Recommendations
+  - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRWorldToolkit](https://github.com/oneVR/VRWorldToolkit) by oneVR
   - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [FPS Viewer2](https://dimebag29.booth.pm/items/4962218) by dimebag29
   - Filamented Shader by s-ilent:
 <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [On BOOTH](https://s-ilent.booth.pm/items/3250389)
