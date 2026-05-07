@@ -51,8 +51,8 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [On BOOTH](https://yamadev.booth.pm/items/4768863)
 <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [On GitHub](https://github.com/koorimizuw/YamaPlayer)
 - Other Furality World-building Panels
-  - Introduction to Lighting in Unity (Built-in RP) by MyroP (Furality Ultra)
-  - Udon#: From Simple to Synced by ImmortalTheOwl (Furality Ultra)
+  - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Introduction to Lighting in Unity (Built-in RP)](https://furality.org/schedule) by MyroP (Furality Ultra)
+  - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Udon#: From Simple to Synced by ImmortalTheOwl](https://furality.org/schedule) (Furality Ultra)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Basics of Optimizing VRChat Worlds](https://www.youtube.com/watch?v=AQIJhVw2g-Q) by MyroP (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UI, UX and Accessible VR World Design](https://www.youtube.com/watch?v=PJuztLbWTmA) by Nidonocu (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Udon Development: From First Steps to Optimization](https://www.youtube.com/watch?v=qjFZ6ggEkJc) by Happyrobot33 (Furality Umbra)
