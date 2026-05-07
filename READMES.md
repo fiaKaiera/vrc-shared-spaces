@@ -19,10 +19,10 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 - [**Wiki**](https://github.com/fiaKaiera/vrc-shared-spaces/wiki)
   - This is a very reader-friendly and thorough version of the entire talk, separated into segments
   - VRChat-side (Getting Inside)
-    - As Host
-    - Sharing With Everyone
-      - Creating Shortcuts (PC, Steam, Android, iOS, etc.)
-    - Other Use Cases
+    - [As Host](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host)
+    - [Sharing With Everyone](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone)
+      - Creating Shortcuts ([PC](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#pc---as-a-desktop-shortcut), [Steam](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#steam---override-on-enter), [Android](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [iOS](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [Handheld VR](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#handheld-vr-quest-pico-etc))
+    - [Other Use Cases](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#other-use-cases)
   - World-building (Magic of a Village)
     - How It Works
       - Code Examples
