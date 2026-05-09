@@ -24,10 +24,10 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
       - Creating Shortcuts ([PC](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#pc---as-a-desktop-shortcut), [Steam](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#steam---override-on-enter), [Android](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [iOS](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [Handheld VR](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#handheld-vr-quest-pico-etc))
     - [Other Use Cases](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#other-use-cases)
   - World-building (Magic of a Village)
-    - How It Works
-      - Code Examples
+    - [How It Works](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works)
+      - [Code Examples](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works#udonsharp)
     - Considerations
-      - Privacy
+      - [Privacy](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Privacy)
       - Optimization
   - Questions asked by the community
 
