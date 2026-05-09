@@ -52,6 +52,13 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [On BOOTH](https://yamadev.booth.pm/items/4768863)
 <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [On GitHub](https://github.com/koorimizuw/YamaPlayer)
 
+- Worlds Featured
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Oysm Inn](https://vrchat.com/home/world/wrld_6c3d9b41-1cc3-4f8d-9081-7ead17bf232f) by aphex503 (used in "Typical VRChat")
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Froggy Chair](https://vrchat.com/home/world/wrld_22aebce4-8454-43f9-a4cb-f2702ec480a8) by fiaKaiera (used in "Getting Inside")
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Hop Cat Hometown View](https://vrchat.com/home/world/wrld_93be5aca-680d-425f-aca3-4486b624a9ef) by fiaKaiera (used in "The Magic of a Village")
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Retreat of Haze カスミノカクレガ](https://vrchat.com/home/world/wrld_e9db55c1-728c-4921-9cb0-fb461546cb73) by GinGira (used in "Audio / Voice Zones")
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [New Generation ⁄ 新世代](https://vrchat.com/home/world/wrld_9936b6ff-e523-4066-9e40-a333320ff5d3) by _Harim (used in "Be careful of placing video players…")
+
 - Other Furality World-building Panels
   - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Introduction to Lighting in Unity (Built-in RP)](https://furality.org/schedule) by MyroP (Furality Ultra)
   - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Udon#: From Simple to Synced by ImmortalTheOwl](https://furality.org/schedule) (Furality Ultra)
@@ -62,13 +69,6 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Building Better VRChat Worlds: A Beginner's Guide!](https://www.youtube.com/watch?v=uydb50pnbVQ) by Wishdream (Furality Sylva)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UdonSharp Crash Course For Beginners](https://www.youtube.com/watch?v=bxVfIGcqVR4) by akalink (Furality Aqua)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Making Immersive Worlds 101: Atmospheric Design](https://www.youtube.com/watch?v=aK2pwAWfVM4) by Wishdream (Furality Aqua)
- 
-- Worlds Featured
-  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Oysm Inn](https://vrchat.com/home/world/wrld_6c3d9b41-1cc3-4f8d-9081-7ead17bf232f) by aphex503 (used in "Typical VRChat")
-  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Froggy Chair](https://vrchat.com/home/world/wrld_22aebce4-8454-43f9-a4cb-f2702ec480a8) by fiaKaiera (used in "Getting Inside")
-  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Hop Cat Hometown View](https://vrchat.com/home/world/wrld_93be5aca-680d-425f-aca3-4486b624a9ef) by fiaKaiera (used in "The Magic of a Village")
-  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Retreat of Haze カスミノカクレガ](https://vrchat.com/home/world/wrld_e9db55c1-728c-4921-9cb0-fb461546cb73) by GinGira (used in "Audio / Voice Zones")
-  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [New Generation ⁄ 新世代](https://vrchat.com/home/world/wrld_9936b6ff-e523-4066-9e40-a333320ff5d3) by _Harim (used in "Be careful of placing video players…")
 
 ## Credits
 - Presentation, Screenshots, Images: [fiaKaiera](https://kaiera.furria.net)
