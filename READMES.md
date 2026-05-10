@@ -60,8 +60,8 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [New Generation ⁄ 新世代](https://vrchat.com/home/world/wrld_9936b6ff-e523-4066-9e40-a333320ff5d3) by _Harim (used in "Be careful of placing video players…")
 
 - Other Furality World-building Panels
-  - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Introduction to Lighting in Unity (Built-in RP)](https://furality.org/schedule) by MyroP (Furality Ultra)
-  - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Udon#: From Simple to Synced by ImmortalTheOwl](https://furality.org/schedule) (Furality Ultra)
+  - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Introduction to Lighting in Unity (Built-in RP)](https://furality.org/schedule?active=lighting-unity) by MyroP (Furality Ultra)
+  - <img src="https://media.cdn.furality.online/image/logo/fox-logo.svg" style="height: 1em;"> [Udon#: From Simple to Synced](https://furality.org/schedule?active=udon) by ImmortalTheOwl (Furality Ultra)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Basics of Optimizing VRChat Worlds](https://www.youtube.com/watch?v=AQIJhVw2g-Q) by MyroP (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UI, UX and Accessible VR World Design](https://www.youtube.com/watch?v=PJuztLbWTmA) by Nidonocu (Furality Somna)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Udon Development: From First Steps to Optimization](https://www.youtube.com/watch?v=qjFZ6ggEkJc) by Happyrobot33 (Furality Umbra)
