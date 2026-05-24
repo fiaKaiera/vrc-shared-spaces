@@ -56,7 +56,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 - Worlds Featured
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Oysm Inn](https://vrchat.com/home/world/wrld_6c3d9b41-1cc3-4f8d-9081-7ead17bf232f) by aphex503 (used in "Typical VRChat")
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Froggy Chair](https://vrchat.com/home/world/wrld_22aebce4-8454-43f9-a4cb-f2702ec480a8) by fiaKaiera (used in "Getting Inside")
-  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Hop Cat Hometown View](https://vrchat.com/home/world/wrld_93be5aca-680d-425f-aca3-4486b624a9ef) by fiaKaiera (used in "The Magic of a Village")
+  - ⭐ <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Hop Cat Hometown View](https://vrchat.com/home/world/wrld_93be5aca-680d-425f-aca3-4486b624a9ef) by fiaKaiera (used in "The Magic of a Village")
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Retreat of Haze カスミノカクレガ](https://vrchat.com/home/world/wrld_e9db55c1-728c-4921-9cb0-fb461546cb73) by GinGira (used in "Audio / Voice Zones")
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [New Generation ⁄ 新世代](https://vrchat.com/home/world/wrld_9936b6ff-e523-4066-9e40-a333320ff5d3) by _Harim (used in "Be careful of placing video players…")
 
