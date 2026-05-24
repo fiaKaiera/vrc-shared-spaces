@@ -27,6 +27,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
     - [How It Works](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works)
       - [Code Examples](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works#udonsharp)
     - Considerations
+      - Preferences
       - [Privacy](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Privacy)
       - Optimization
   - Questions asked by the community
@@ -69,6 +70,10 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Building Better VRChat Worlds: A Beginner's Guide!](https://www.youtube.com/watch?v=uydb50pnbVQ) by Wishdream (Furality Sylva)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [UdonSharp Crash Course For Beginners](https://www.youtube.com/watch?v=bxVfIGcqVR4) by akalink (Furality Aqua)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Making Immersive Worlds 101: Atmospheric Design](https://www.youtube.com/watch?v=aK2pwAWfVM4) by Wishdream (Furality Aqua)
+
+- Related Canny Entries (thanks to @raichu.lol on Bsky)
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Sharing Homes](https://feedback.vrchat.com/feature-requests/p/sharing-homes)
+  - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Shared Group Homeworld](https://feedback.vrchat.com/feature-requests/p/shared-group-homeworld)
 
 ## Credits
 - Presentation, Screenshots, Images: [fiaKaiera](https://kaiera.furria.net)
