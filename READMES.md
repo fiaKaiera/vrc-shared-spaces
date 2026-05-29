@@ -39,7 +39,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 - Mentioned Resources
   - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [VRCX](https://github.com/vrcx-team/VRCX)
   - Spawn Systems
-    - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [fiaKaiera's Unique Spawnpoints](https://github.com/fiaKaiera/vpm-listing/blob/main/Packages/net.fiakaiera.spawnpoints/README.md) (GitHub, available to add on VCC/ALCOM)
+    - ⭐ <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [fiaKaiera's Unique Spawnpoints](https://github.com/fiaKaiera/vpm-listing/blob/main/Packages/net.fiakaiera.spawnpoints/README.md) (GitHub, available to add on VCC/ALCOM)
     - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [AiTech Dynamic Personalized Spawn System](https://aikatsuyuri.booth.pm/items/4486666) (BOOTH)
   - <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="height: 1em;"> [Udon Voice Utilities](https://github.com/Guribo/UdonVoiceUtils) by Guribo  
 - Unmentioned World Tool Recommendations
@@ -75,6 +75,21 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Sharing Homes](https://feedback.vrchat.com/feature-requests/p/sharing-homes)
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Shared Group Homeworld](https://feedback.vrchat.com/feature-requests/p/shared-group-homeworld)
 
+- Teaser Video Avatar Bases (in order of appearance)
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた)
+    - fiaKaiera makes <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [clothing for Etoigne](https://fiakaiera.booth.pm) too!
+  - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Mari's Carbuncle](https://marivr.gumroad.com/l/Carbuncle) by Mari
+  - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Kyano](https://habatwo.gumroad.com/l/nnyrb) by Habatwo
+  - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [kisa 🎀 lili](https://mokayume.gumroad.com/l/kisalili) by Moka Yume w/ bluegua
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> Asty by [Furriverse](https://dracofenrir.booth.pm/items) ([no longer for sale](https://x.com/Furriverse/status/2006380806521094447))
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [ドヤうさ](https://ikura-don.booth.pm/items/5375882) by いくら丼 (いくら)
+  - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Konirri](https://omatssu.gumroad.com/l/konirri) by Omatsu
+  - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Deira Neo](https://marivr.gumroad.com/l/DeiraNeo) by Mari
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Noix](https://mofumofumotimoti.booth.pm/items/5333943) by もふもふ屋 (もふあき)
+  - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Sophron](https://habatwo.gumroad.com/l/dthrt?layout=profile) by Habatwo
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Lesser Mokuri](https://chimodemi.booth.pm/items/5866769) by ちもでみカフェ (ちもでみ)
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Tiol](https://forestwind.booth.pm/items/3905359) by 緑風のアトリエ　～ForestWind～ (幻遊童子)
+
 ## Credits
 - Presentation, Screenshots, Images: [fiaKaiera](https://kaiera.furria.net)
   - The memes are just found randomly on the internet
@@ -84,5 +99,3 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 - QR Codes: [delphi.tools](https://delphi.tools/tools/qr-genny)
 - Code Highlighting: [hilite.me](https://hilite.me) (in `github-dark` style) (thanks to [Happyrobot33](https://github.com/Happyrobot33) for mentioning this in their [Furality panel](https://www.youtube.com/watch?v=qjFZ6ggEkJc)!)
 - Big shoutout: [Wishdream](https://wishdream.org) for helping me guide on making this presentation
-- Avatar Base: <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた)
-  - fiaKaiera makes <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [clothing for Etoigne](https://fiakaiera.booth.pm) too!
