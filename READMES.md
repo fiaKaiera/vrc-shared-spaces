@@ -9,28 +9,28 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> Viewer-friendly Presentational Video (not yet made)
 
 - **Furality Presentation**
-  - As presented:
-    [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff"> [via Google Slides](https://docs.google.com/presentation/d/1VY4hsQ7psvVzPkKbNsQF5K_pERHWFHBQU1qWBRBk3uE/edit?usp=sharing) ]
-    [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> PDF Download ]
-  - w/o the fluff: 
-    [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff"> [via Google Slides](https://docs.google.com/presentation/d/1VY4hsQ7psvVzPkKbNsQF5K_pERHWFHBQU1qWBRBk3uE/edit?usp=sharing) ]
-    [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> PDF Download ]
+  - As presented:<br>
+    [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff">[via Google Slides](https://docs.google.com/presentation/d/1VY4hsQ7psvVzPkKbNsQF5K_pERHWFHBQU1qWBRBk3uE/edit?usp=sharing) ]
+    [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> [PDF Download](https://raw.githubusercontent.com/fiaKaiera/vrc-shared-spaces/main/vrc-shared-spaces.pdf) ]
+  - w/o the fluff: (77 slides -> 39 slides)<br>
+    [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff"> [via Google Slides](https://docs.google.com/presentation/d/1TSH_4l5kAQ4mZNNTAd5nddzmEkwM7HGQs1_EEkbkMwk/edit?usp=sharing) ]
+    [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> [PDF Download](https://raw.githubusercontent.com/fiaKaiera/vrc-shared-spaces/main/vrc-shared-spaces-nofluff.pdf) ]
 
 - [**Wiki**](https://github.com/fiaKaiera/vrc-shared-spaces/wiki)
-  - This is a very reader-friendly and thorough version of the entire talk, separated into segments
   - VRChat-side (Getting Inside)
-    - [As Host](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host)
-    - [Sharing With Everyone](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone)
-      - Creating Shortcuts ([PC](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#pc---as-a-desktop-shortcut), [Steam](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#steam---override-on-enter), [Android](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [iOS](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [Handheld VR](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#handheld-vr-quest-pico-etc))
-    - [Other Use Cases](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#other-use-cases)
+      - [As Host](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host)
+      - [Sharing With Everyone](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone)
+        - Creating Shortcuts ([PC](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#pc---as-a-desktop-shortcut), [Steam](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#steam---override-on-enter), [Android](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [iOS](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [Handheld VR](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#handheld-vr-quest-pico-etc))
+        - [VRChat URL Protocol](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/VRChat-URL-Protocol)
+      - [Other Use Cases](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host#other-use-cases)
   - World-building (Magic of a Village)
     - [How It Works](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works)
       - [Code Examples](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works#udonsharp)
     - Considerations
       - Preferences
       - [Privacy](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Privacy)
-      - Optimization
-  - Questions asked by the community
+      - [Optimization](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Optimization)
+  - [Community Asked Questions](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Community-Asked-Questions)
 
 <a href='https://ko-fi.com/fiaKaiera' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -75,7 +75,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Sharing Homes](https://feedback.vrchat.com/feature-requests/p/sharing-homes)
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Shared Group Homeworld](https://feedback.vrchat.com/feature-requests/p/shared-group-homeworld)
 
-- Teaser Video Avatar Bases (in order of appearance)
+- Teaser Video/Presentation Avatar Bases (in order of appearance)
   - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた)
     - fiaKaiera makes <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [clothing for Etoigne](https://fiakaiera.booth.pm) too!
   - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Mari's Carbuncle](https://marivr.gumroad.com/l/Carbuncle) by Mari
@@ -89,6 +89,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Sophron](https://habatwo.gumroad.com/l/dthrt?layout=profile) by Habatwo
   - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Lesser Mokuri](https://chimodemi.booth.pm/items/5866769) by ちもでみカフェ (ちもでみ)
   - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Tiol](https://forestwind.booth.pm/items/3905359) by 緑風のアトリエ　～ForestWind～ (幻遊童子)
+  - ⭐ <img src="https://jinxxy.com/icon.png?322b65ee232f485a" style="height: 1em;"> [Kinu](https://jinxxy.com/Wishdream/kinu) by Wishdream
 
 ## Credits
 - Presentation, Screenshots, Images: [fiaKaiera](https://kaiera.furria.net)
