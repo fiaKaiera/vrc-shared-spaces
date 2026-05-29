@@ -17,20 +17,20 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
     [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> [PDF Download](https://raw.githubusercontent.com/fiaKaiera/vrc-shared-spaces/main/vrc-shared-spaces-nofluff.pdf) ]
 
 - [**Wiki**](https://github.com/fiaKaiera/vrc-shared-spaces/wiki)
-  - VRChat-side (Getting Inside)
-      - [As Host](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host)
-      - [Sharing With Everyone](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone)
-        - Creating Shortcuts ([PC](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#pc---as-a-desktop-shortcut), [Steam](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#steam---override-on-enter), [Android](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [iOS](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [Handheld VR](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#handheld-vr-quest-pico-etc))
-        - [VRChat URL Protocol](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/VRChat-URL-Protocol)
-      - [Other Use Cases](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host#other-use-cases)
-  - World-building (Magic of a Village)
-    - [How It Works](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works)
-      - [Code Examples](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works#udonsharp)
-    - Considerations
-      - Preferences
-      - [Privacy](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Privacy)
-      - [Optimization](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Optimization)
-  - [Community Asked Questions](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Community-Asked-Questions)
+    - VRChat-side (Getting Inside)
+        - [As Host](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host)
+        - [Sharing With Everyone](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone)
+          - Creating Shortcuts ([PC](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#pc---as-a-desktop-shortcut), [Steam](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#steam---override-on-enter), [Android](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [iOS](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#android--ios), [Handheld VR](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-Sharing-With-Everyone#handheld-vr-quest-pico-etc))
+          - [VRChat URL Protocol](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/VRChat-URL-Protocol)
+        - [Other Use Cases](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Getting-Inside-%E2%80%90-As-Host#other-use-cases)
+    - World-building (Magic of a Village)
+      - [How It Works](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works)
+        - [Code Examples](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-How-It-Works#udonsharp)
+      - Considerations
+        - [Preferences](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-‐-Preferences)
+        - [Privacy](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Privacy)
+        - [Optimization](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/The-Magic-of-a-Village-%E2%80%90-Optimization)
+    - [Community Asked Questions](https://github.com/fiaKaiera/vrc-shared-spaces/wiki/Community-Asked-Questions)
 
 <a href='https://ko-fi.com/fiaKaiera' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
