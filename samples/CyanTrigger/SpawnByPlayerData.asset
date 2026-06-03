@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
-  m_Name: SpawnByPlayerData CyanTriggerProgram
+  m_Name: SpawnByPlayerData
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 31423dc71a924524cb3dd8383488f03f, type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 9f16b5eff843e79499245717e94242d1, type: 2}
   udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
-    .export persistenceKey\r\n  .export persistenceValue\r\n  .export spawnPosition\r\n 
+    .export persistenceKey\r\n  .export persistenceValue\r\n  .export spawnLocation\r\n 
     __CyanTrigger_ProgramName_SystemString: %SystemString, null\r\n  __CyanTrigger_ProgramHash_SystemString:
     %SystemString, null\r\n  __0_ra_SystemUInt32: %SystemUInt32, null\r\n  __1_ea_SystemUInt32:
     %SystemUInt32, null\r\n  _this_local_player: %VRCSDKBaseVRCPlayerApi, null\r\n 
     onPlayerRestoredPlayer: %VRCSDKBaseVRCPlayerApi, null\r\n  persistenceKey: %SystemString,
-    null\r\n  persistenceValue: %SystemString, null\r\n  spawnPosition: %UnityEngineTransform,
+    null\r\n  persistenceValue: %SystemString, null\r\n  spawnLocation: %UnityEngineTransform,
     null\r\n  __13_local_var_SystemBoolean: %SystemBoolean, null\r\n  __14_local_var_SystemString:
     %SystemString, null\r\n  __15_local_var_SystemBoolean: %SystemBoolean, null\r\n 
     __16_ref_SystemString: %SystemString, null\r\n  __17___jump_return_0_SystemUInt32:
@@ -46,8 +46,8 @@ MonoBehaviour:
     JUMP_IF_FALSE, 0x0000011C\r\n    PUSH, __23_const_SystemBoolean\r\n    PUSH,
     __22_lp_init_SystemBoolean_ct_intern\r\n    COPY\r\n    PUSH, _this_local_player\r\n   
     EXTERN, \"VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi\"\r\n   
-    PUSH, spawnPosition\r\n    PUSH, __18_local_var_UnityEngineVector3\r\n    EXTERN,
-    \"UnityEngineTransform.__get_position__UnityEngineVector3\"\r\n    PUSH, spawnPosition\r\n   
+    PUSH, spawnLocation\r\n    PUSH, __18_local_var_UnityEngineVector3\r\n    EXTERN,
+    \"UnityEngineTransform.__get_position__UnityEngineVector3\"\r\n    PUSH, spawnLocation\r\n   
     PUSH, __19_local_var_UnityEngineQuaternion\r\n    EXTERN, \"UnityEngineTransform.__get_rotation__UnityEngineQuaternion\"\r\n   
     PUSH, _this_local_player\r\n    PUSH, __18_local_var_UnityEngineVector3\r\n   
     PUSH, __19_local_var_UnityEngineQuaternion\r\n    PUSH, __20_ref_VRCSDKBaseVRC_SceneDescriptor_SpawnOrientation\r\n   
@@ -57,7 +57,7 @@ MonoBehaviour:
     PUSH, persistenceKey\r\n    PUSH, persistenceValue\r\n    EXTERN, \"VRCSDK3PersistencePlayerData.__SetString__SystemString_SystemString__SystemVoid\"\r\n   
     PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n.code_end\r\n"
   assemblyError: 
-  triggerHash: 05B9282F3526E8631638904C9159AA85
+  triggerHash: 279B58AD92D77F01AA46348D18F3EC89
   shouldBeNetworked: 0
   warningMessages: []
   errorMessages: []
@@ -322,7 +322,7 @@ MonoBehaviour:
           guid: 
         inputs:
         - isVariable: 1
-          name: spawnPosition
+          name: spawnLocation
           variableID: 456e54fd-5b15-43aa-a78a-3aeeadebadfa
           data:
             objEncoded: Lg==
@@ -331,7 +331,7 @@ MonoBehaviour:
           name: 
           variableID: 55c88788-1b78-4020-bd3a-caa80e46ce85
           data:
-            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBEAAAAHMAcABhAHcAbgBQAG8AcwBpAHQAaQBvAG4AUABvAHMABQ==
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBFQAAAHMAcABhAHcAbgBMAG8AYwBhAHQAaQBvAG4AUABvAHMAaQB0AGkAbwBuAAU=
             unityObjects: []
         multiInput: []
         expanded: 1
@@ -342,7 +342,7 @@ MonoBehaviour:
           guid: 
         inputs:
         - isVariable: 1
-          name: spawnPosition
+          name: spawnLocation
           variableID: 456e54fd-5b15-43aa-a78a-3aeeadebadfa
           data:
             objEncoded: Lg==
@@ -351,7 +351,7 @@ MonoBehaviour:
           name: 
           variableID: 18d992ac-109a-44c0-a987-c29a0ed6a1ba
           data:
-            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBEAAAAHMAcABhAHcAbgBQAG8AcwBpAHQAaQBvAG4AUgBvAHQABQ==
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBFQAAAHMAcABhAHcAbgBMAG8AYwBhAHQAaQBvAG4AUgBvAHQAYQB0AGkAbwBuAAU=
             unityObjects: []
         multiInput: []
         expanded: 1
@@ -368,13 +368,13 @@ MonoBehaviour:
             objEncoded: 
             unityObjects: []
         - isVariable: 1
-          name: spawnPositionPos
+          name: spawnLocationPosition
           variableID: 55c88788-1b78-4020-bd3a-caa80e46ce85
           data:
             objEncoded: Ai8AAAAAASsAAABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBWAGUAYwB0AG8AcgAzACwAIABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBDAG8AcgBlAE0AbwBkAHUAbABlAAAAAAAgAAAAACAAAAAAIAAAAAAF
             unityObjects: []
         - isVariable: 1
-          name: spawnPositionRot
+          name: spawnLocationRotation
           variableID: 18d992ac-109a-44c0-a987-c29a0ed6a1ba
           data:
             objEncoded: Ai8AAAAAAS4AAABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBRAHUAYQB0AGUAcgBuAGkAbwBuACwAIABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBDAG8AcgBlAE0AbwBkAHUAbABlAAAAAAAgAAAAACAAAAAAIAAAAAAgAAAAAAU=
@@ -475,7 +475,7 @@ MonoBehaviour:
       comment:
         comment: 
     - isVariable: 0
-      name: spawnPosition
+      name: spawnLocation
       variableID: 456e54fd-5b15-43aa-a78a-3aeeadebadfa
       data:
         objEncoded: Lg==
@@ -499,7 +499,7 @@ MonoBehaviour:
     userVariableNames:
     - persistenceKey
     - persistenceValue
-    - spawnPosition
+    - spawnLocation
     userVariableTypes:
     - typeDef: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
     - typeDef: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
