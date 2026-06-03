@@ -1,0 +1,381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31a3a978bd0448580d4ef9f3d6d95bf, type: 3}
+  m_Name: SpawnByDisplayName CyanTriggerProgram
+  m_EditorClassIdentifier: 
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 4032c5b2532b45844b60e0323682ae92, type: 2}
+  udonAssembly: ".data_start\r\n  .export __CyanTrigger_ProgramName_SystemString\r\n 
+    .export displayName\r\n  .export spawnPosition\r\n  __CyanTrigger_ProgramName_SystemString:
+    %SystemString, null\r\n  __CyanTrigger_ProgramHash_SystemString: %SystemString,
+    null\r\n  __0_ra_SystemUInt32: %SystemUInt32, null\r\n  __1_ea_SystemUInt32:
+    %SystemUInt32, null\r\n  _this_udonbehaviour: %VRCUdonUdonBehaviour, this\r\n 
+    _this_local_player: %VRCSDKBaseVRCPlayerApi, null\r\n  displayName: %SystemString,
+    null\r\n  spawnPosition: %UnityEngineTransform, null\r\n  __11_local_var_SystemString:
+    %SystemString, null\r\n  __12_local_var_SystemBoolean: %SystemBoolean, null\r\n 
+    __13_ref_SystemString: %SystemString, null\r\n  __14_ref_SystemInt32: %SystemInt32,
+    null\r\n  __15_ref_VRCUdonCommonEnumsEventTiming: %VRCUdonCommonEnumsEventTiming,
+    null\r\n  __16_local_var_UnityEngineVector3: %UnityEngineVector3, null\r\n  __17_local_var_UnityEngineQuaternion:
+    %UnityEngineQuaternion, null\r\n  __18_ref_VRCSDKBaseVRC_SceneDescriptor_SpawnOrientation:
+    %VRCSDKBaseVRC_SceneDescriptorSpawnOrientation, null\r\n  __19_ref_SystemBoolean:
+    %SystemBoolean, null\r\n  __20_lp_init_SystemBoolean_ct_intern: %SystemBoolean,
+    null\r\n  __21_const_SystemBoolean: %SystemBoolean, null\r\n.data_end\r\n\n.code_start\r\n 
+    .export _start\r\n  _start:\r\n    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __20_lp_init_SystemBoolean_ct_intern\r\n   
+    JUMP_IF_FALSE, 0x0000003C\r\n    PUSH, __21_const_SystemBoolean\r\n    PUSH,
+    __20_lp_init_SystemBoolean_ct_intern\r\n    COPY\r\n    PUSH, _this_local_player\r\n   
+    EXTERN, \"VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi\"\r\n   
+    PUSH, _this_local_player\r\n    PUSH, __11_local_var_SystemString\r\n    EXTERN,
+    \"VRCSDKBaseVRCPlayerApi.__get_displayName__SystemString\"\r\n    PUSH, displayName\r\n   
+    PUSH, __11_local_var_SystemString\r\n    PUSH, __12_local_var_SystemBoolean\r\n   
+    EXTERN, \"SystemString.__Equals__SystemString_SystemString__SystemBoolean\"\r\n   
+    PUSH, __12_local_var_SystemBoolean\r\n    JUMP_IF_FALSE, 0x000000AC\r\n    PUSH,
+    _this_udonbehaviour\r\n    PUSH, __13_ref_SystemString\r\n    PUSH, __14_ref_SystemInt32\r\n   
+    PUSH, __15_ref_VRCUdonCommonEnumsEventTiming\r\n    EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomEventDelayedFrames__SystemString_SystemInt32_VRCUdonCommonEnumsEventTiming__SystemVoid\"\r\n   
+    PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n 
+    .export _Spawn\r\n  _Spawn:\r\n    PUSH, __1_ea_SystemUInt32\r\n    PUSH, __20_lp_init_SystemBoolean_ct_intern\r\n   
+    JUMP_IF_FALSE, 0x000000FC\r\n    PUSH, __21_const_SystemBoolean\r\n    PUSH,
+    __20_lp_init_SystemBoolean_ct_intern\r\n    COPY\r\n    PUSH, _this_local_player\r\n   
+    EXTERN, \"VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi\"\r\n   
+    PUSH, spawnPosition\r\n    PUSH, __16_local_var_UnityEngineVector3\r\n    EXTERN,
+    \"UnityEngineTransform.__get_position__UnityEngineVector3\"\r\n    PUSH, spawnPosition\r\n   
+    PUSH, __17_local_var_UnityEngineQuaternion\r\n    EXTERN, \"UnityEngineTransform.__get_rotation__UnityEngineQuaternion\"\r\n   
+    PUSH, _this_local_player\r\n    PUSH, __16_local_var_UnityEngineVector3\r\n   
+    PUSH, __17_local_var_UnityEngineQuaternion\r\n    PUSH, __18_ref_VRCSDKBaseVRC_SceneDescriptor_SpawnOrientation\r\n   
+    PUSH, __19_ref_SystemBoolean\r\n    EXTERN, \"VRCSDKBaseVRCPlayerApi.__TeleportTo__UnityEngineVector3_UnityEngineQuaternion_VRCSDKBaseVRC_SceneDescriptorSpawnOrientation_SystemBoolean__SystemVoid\"\r\n   
+    PUSH, __0_ra_SystemUInt32\r\n    COPY\r\n    JUMP_INDIRECT, __0_ra_SystemUInt32\r\n\r\n.code_end\r\n"
+  assemblyError: 
+  triggerHash: 108398220433402D634D7B6F312A090B
+  shouldBeNetworked: 0
+  warningMessages: []
+  errorMessages: []
+  ctDataInstance:
+    version: 6
+    updateOrder: 0
+    autoSetSyncMode: 0
+    programSyncMode: 3
+    programName: SpawnByDisplayName
+    events:
+    - name: _Unnamed
+      eventId: 8cc09c03-13bf-41ae-8812-87b4821912dd
+      eventInstance:
+        actionType:
+          directEvent: Event_Start
+          guid: 
+        inputs: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      actionInstances:
+      - actionType:
+          directEvent: VRCSDKBaseVRCPlayerApi.__get_displayName__SystemString
+          guid: 
+        inputs:
+        - isVariable: 1
+          name: Local Player
+          variableID: _this_local_player
+          data:
+            objEncoded: Lg==
+            unityObjects: []
+        - isVariable: 1
+          name: 
+          variableID: bffaceb2-e91f-4481-bc5a-371a6d44b7fd
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBEAAAAGwAbwBjAGEAbABEAGkAcwBwAGwAYQB5AE4AYQBtAGUABQ==
+            unityObjects: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: SystemString.__Equals__SystemString_SystemString__SystemBoolean
+          guid: 
+        inputs:
+        - isVariable: 1
+          name: displayName
+          variableID: e03fd020-098a-4e47-90ea-66a3e1e74d89
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBAAAAAAU=
+            unityObjects: []
+        - isVariable: 1
+          name: localDisplayName
+          variableID: bffaceb2-e91f-4481-bc5a-371a6d44b7fd
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBAAAAAAU=
+            unityObjects: []
+        - isVariable: 1
+          name: 
+          variableID: 9bd06244-23e1-4eed-ba28-331822981173
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBDQAAAGkAcwBMAG8AYwBhAGwAUABsAGEAeQBlAHIABQ==
+            unityObjects: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: CyanTriggerSpecial_If
+          guid: 
+        inputs: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: CyanTriggerSpecial_Condition
+          guid: 
+        inputs:
+        - isVariable: 1
+          name: isLocalPlayer
+          variableID: 9bd06244-23e1-4eed-ba28-331822981173
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBDQAAAGkAcwBMAG8AYwBhAGwAUABsAGEAeQBlAHIABQ==
+            unityObjects: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: CyanTriggerSpecial_BlockEnd
+          guid: 
+        inputs: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: CyanTriggerSpecial_ConditionBody
+          guid: 
+        inputs: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomEventDelayedFrames__SystemString_SystemInt32_VRCUdonCommonEnumsEventTiming__SystemVoid
+          guid: 
+        inputs:
+        - isVariable: 0
+          name: 
+          variableID: 
+          data:
+            objEncoded: 
+            unityObjects: []
+        - isVariable: 0
+          name: 
+          variableID: 
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBBgAAAF8AUwBwAGEAdwBuAAU=
+            unityObjects: []
+        - isVariable: 0
+          name: 
+          variableID: 
+          data:
+            objEncoded: Ai8AAAAAARYAAABTAHkAcwB0AGUAbQAuAEkAbgB0ADMAMgAsACAAbQBzAGMAbwByAGwAaQBiAAAAAAAYCgAAAAU=
+            unityObjects: []
+        - isVariable: 0
+          name: 
+          variableID: 
+          data:
+            objEncoded: Ai8AAAAAATIAAABWAFIAQwAuAFUAZABvAG4ALgBDAG8AbQBtAG8AbgAuAEUAbgB1AG0AcwAuAEUAdgBlAG4AdABUAGkAbQBpAG4AZwAsACAAVgBSAEMALgBVAGQAbwBuAC4AQwBvAG0AbQBvAG4AAAAAAB4AAAAAAAAAAAU=
+            unityObjects: []
+        multiInput:
+        - isVariable: 1
+          name: This UdonBehaviour
+          variableID: _this_udonbehaviour
+          data:
+            objEncoded: 
+            unityObjects: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: CyanTriggerSpecial_BlockEnd
+          guid: 
+        inputs: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: CyanTriggerSpecial_BlockEnd
+          guid: 
+        inputs: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      eventOptions:
+        userGate: 0
+        userGateExtraData: []
+        broadcast: 0
+        delay: 0
+        replay: 0
+      expanded: 0
+    - name: _Spawn
+      eventId: 65a9b136-1b16-46a8-a2eb-8ae8060590ea
+      eventInstance:
+        actionType:
+          directEvent: Event_Custom
+          guid: 
+        inputs: []
+        multiInput: []
+        expanded: 0
+        comment:
+          comment: 
+      actionInstances:
+      - actionType:
+          directEvent: UnityEngineTransform.__get_position__UnityEngineVector3
+          guid: 
+        inputs:
+        - isVariable: 1
+          name: spawnPosition
+          variableID: f39b0f5c-0453-44e0-8a9f-5c77e206bfb5
+          data:
+            objEncoded: Lg==
+            unityObjects: []
+        - isVariable: 1
+          name: 
+          variableID: 55c88788-1b78-4020-bd3a-caa80e46ce85
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBEAAAAHMAcABhAHcAbgBQAG8AcwBpAHQAaQBvAG4AUABvAHMABQ==
+            unityObjects: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: UnityEngineTransform.__get_rotation__UnityEngineQuaternion
+          guid: 
+        inputs:
+        - isVariable: 1
+          name: spawnPosition
+          variableID: f39b0f5c-0453-44e0-8a9f-5c77e206bfb5
+          data:
+            objEncoded: Lg==
+            unityObjects: []
+        - isVariable: 1
+          name: 
+          variableID: 18d992ac-109a-44c0-a987-c29a0ed6a1ba
+          data:
+            objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBEAAAAHMAcABhAHcAbgBQAG8AcwBpAHQAaQBvAG4AUgBvAHQABQ==
+            unityObjects: []
+        multiInput: []
+        expanded: 1
+        comment:
+          comment: 
+      - actionType:
+          directEvent: VRCSDKBaseVRCPlayerApi.__TeleportTo__UnityEngineVector3_UnityEngineQuaternion_VRCSDKBaseVRC_SceneDescriptorSpawnOrientation_SystemBoolean__SystemVoid
+          guid: 
+        inputs:
+        - isVariable: 0
+          name: 
+          variableID: 
+          data:
+            objEncoded: 
+            unityObjects: []
+        - isVariable: 1
+          name: spawnPositionPos
+          variableID: 55c88788-1b78-4020-bd3a-caa80e46ce85
+          data:
+            objEncoded: Ai8AAAAAASsAAABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBWAGUAYwB0AG8AcgAzACwAIABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBDAG8AcgBlAE0AbwBkAHUAbABlAAAAAAAgAAAAACAAAAAAIAAAAAAF
+            unityObjects: []
+        - isVariable: 1
+          name: spawnPositionRot
+          variableID: 18d992ac-109a-44c0-a987-c29a0ed6a1ba
+          data:
+            objEncoded: Ai8AAAAAAS4AAABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBRAHUAYQB0AGUAcgBuAGkAbwBuACwAIABVAG4AaQB0AHkARQBuAGcAaQBuAGUALgBDAG8AcgBlAE0AbwBkAHUAbABlAAAAAAAgAAAAACAAAAAAIAAAAAAgAAAAAAU=
+            unityObjects: []
+        - isVariable: 0
+          name: 
+          variableID: 
+          data:
+            objEncoded: Ai8AAAAAATwAAABWAFIAQwAuAFMARABLAEIAYQBzAGUALgBWAFIAQwBfAFMAYwBlAG4AZQBEAGUAcwBjAHIAaQBwAHQAbwByACsAUwBwAGEAdwBuAE8AcgBpAGUAbgB0AGEAdABpAG8AbgAsACAAVgBSAEMAUwBEAEsAQgBhAHMAZQAAAAAAHgAAAAAAAAAABQ==
+            unityObjects: []
+        - isVariable: 0
+          name: 
+          variableID: 
+          data:
+            objEncoded: Ai8AAAAAARgAAABTAHkAcwB0AGUAbQAuAEIAbwBvAGwAZQBhAG4ALAAgAG0AcwBjAG8AcgBsAGkAYgAAAAAALAEF
+            unityObjects: []
+        multiInput:
+        - isVariable: 1
+          name: Local Player
+          variableID: _this_local_player
+          data:
+            objEncoded: Lg==
+            unityObjects: []
+        expanded: 1
+        comment:
+          comment: 
+      eventOptions:
+        userGate: 0
+        userGateExtraData: []
+        broadcast: 0
+        delay: 0
+        replay: 0
+      expanded: 1
+    variables:
+    - isVariable: 0
+      name: displayName
+      variableID: e03fd020-098a-4e47-90ea-66a3e1e74d89
+      data:
+        objEncoded: Ai8AAAAAARcAAABTAHkAcwB0AGUAbQAuAFMAdAByAGkAbgBnACwAIABtAHMAYwBvAHIAbABpAGIAAAAAACgBAAAAAAU=
+        unityObjects: []
+      type:
+        typeDef: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+      sync: 0
+      showInInspector: 1
+      typeInfo: 0
+      comment:
+        comment: 
+    - isVariable: 0
+      name: spawnPosition
+      variableID: f39b0f5c-0453-44e0-8a9f-5c77e206bfb5
+      data:
+        objEncoded: Lg==
+        unityObjects: []
+      type:
+        typeDef: UnityEngine.Transform, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      sync: 0
+      showInInspector: 1
+      typeInfo: 0
+      comment:
+        comment: 
+    comment:
+      comment: 
+    expandVariables: 1
+    expandOtherSettings: 1
+    expandSyncSection: 0
+    ignoreEventWarnings: 0
+  publicVariableReferences:
+    actionDataIndices: []
+    userVariableNames:
+    - displayName
+    - spawnPosition
+    userVariableTypes:
+    - typeDef: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    - typeDef: UnityEngine.Transform, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+  ignoreOdinData: 1
+  serializationDataOdin:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  allowEditingInInspector: 0
+  expandInInspector: 0
+  isLocked: 0
