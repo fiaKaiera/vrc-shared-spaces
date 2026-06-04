@@ -76,7 +76,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://assets.vrchat.com/www/favicons/favicon-16x16.png" style="height: 1em;"> [Shared Group Homeworld](https://feedback.vrchat.com/feature-requests/p/shared-group-homeworld)
 
 - Teaser Video/Presentation Avatar Bases (in order of appearance)
-  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた)
+  - <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [Etoigne](https://tamakonekomata.booth.pm/items/1585088) by 猫印良品 (たまこねこまた) <- this is Kaiera's model!
     - fiaKaiera makes <img src="https://asset.booth.pm/favicon.ico" style="height: 1em;"> [clothing for Etoigne](https://fiakaiera.booth.pm) too!
   - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Mari's Carbuncle](https://marivr.gumroad.com/l/Carbuncle) by Mari
   - <img src="https://assets.gumroad.com/images/pink-icon.png" style="height: 1em;"> [Kyano](https://habatwo.gumroad.com/l/nnyrb) by Habatwo
