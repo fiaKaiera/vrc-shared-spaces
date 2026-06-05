@@ -1,5 +1,6 @@
 # A Shared Home: How to Live with Friends in VRChat
 <kbd><img src="https://avatars.githubusercontent.com/u/15869263?v=4&size=64" style="height: 3em"></kbd> by [fiaKaiera](https://kaiera.furria.net)
+<br>Socials / SNS: [https://kaiera.furria.net](https://kaiera.furria.net)
 
 This is the hub for everything related to fiaKaiera's [Furality](https://furality.org/online-xperience) panel about living together with friends in VRChat within one world as a home.
 
@@ -7,6 +8,18 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> On Furality (not yet available, [check their channel](https://www.youtube.com/@Furality) if they have uploaded it!)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> Early VOD (not yet available)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> Viewer-friendly Presentational Video (not yet made)
+  - Teaser Video:
+    <img src="https://www.tiktok.com/favicon.ico" style="height: 1em;"> [Tiktok](https://www.tiktok.com/@fiakaiera/video/7643229886718479623)
+    <img src="https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp" style="height: 1em;"> [Instagram](https://www.instagram.com/reel/DYszawPypOq)
+    <img src="https://web-cdn.bsky.app/static/apple-touch-icon.png" style="height: 1em;"> [Bluesky](https://bsky.app/profile/kaiera.furria.net/post/3mmkkkc35222n)
+    <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" style="height: 1em;"> [Twitter / X](https://x.com/fiaKaiera/status/2058322279915028982)
+    <img src="https://www.youtube.com/s/desktop/5ccc1a49/img/favicon.ico" style="height: 1em;"> [YouTube](https://youtu.be/yYh3wEzu1bc) ([Shorts](https://www.youtube.com/shorts/VZba66cn7aU))
+  - Teaser Q&A:
+    <img src="https://www.tiktok.com/favicon.ico" style="height: 1em;"> [Tiktok](https://www.tiktok.com/@fiakaiera/video/7645453577397210386)
+    <img src="https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp" style="height: 1em;"> [Instagram](https://www.instagram.com/reel/DY8M_haTh0v)
+    <img src="https://web-cdn.bsky.app/static/apple-touch-icon.png" style="height: 1em;"> [Bluesky](https://bsky.app/profile/kaiera.furria.net/post/3mmzp37zjbk2o)
+    <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" style="height: 1em;"> [Twitter / X](https://x.com/fiaKaiera/status/2060500787248468128)
+    <img src="https://www.youtube.com/s/desktop/5ccc1a49/img/favicon.ico" style="height: 1em;"> [YouTube Shorts](https://www.youtube.com/shorts/Vaiazr-Gt_I)
 
 - **Furality Presentation**
   - As presented:<br>
