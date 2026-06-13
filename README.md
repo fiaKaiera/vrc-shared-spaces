@@ -5,8 +5,8 @@
 This is the hub for everything related to fiaKaiera's [Furality](https://furality.org/online-xperience) panel about living together with friends in VRChat within one world as a home.
 
 - **Videos**
-  - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> On Furality (not yet available, [check their channel](https://www.youtube.com/@Furality) if they have uploaded it!)
   - ⭐ <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Event VOD](https://youtu.be/bPZMPNvU3p8)
+  - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> On Furality (not yet available, [check their channel](https://www.youtube.com/@Furality) if they have uploaded it!)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> Viewer-friendly Presentational Video (not yet made)
   - <img src="https://api.iconify.design/mdi:twitch.svg?color=%23ffffff" style="height: 1em;"> ~~[Furality Twitch Day 2 VOD](https://www.twitch.tv/videos/2789253575?t=15h08m23s), timestamped~~ (no longer available due to copyright)
   - Teaser Video:
