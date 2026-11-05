@@ -5,8 +5,8 @@
 This is the hub for everything related to fiaKaiera's [Furality](https://furality.org/online-xperience) panel about living together with friends in VRChat within one world as a home.
 
 - **Videos**
-  - ⭐ <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Event VOD](https://youtu.be/bPZMPNvU3p8)
-  - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> On Furality (not yet available, [check their channel](https://www.youtube.com/@Furality) if they have uploaded it!)
+  - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Furality VOD](https://youtu.be/9n7cP2GTKmY)
+    - ⭐ <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> [Kaiera's Rough VOD](https://youtu.be/bPZMPNvU3p8)
   - <img src="https://api.iconify.design/mdi:youtube.svg?color=%23ffffff" style="height: 1em;"> Viewer-friendly Presentational Video (not yet made)
   - <img src="https://api.iconify.design/mdi:twitch.svg?color=%23ffffff" style="height: 1em;"> ~~[Furality Twitch Day 2 VOD](https://www.twitch.tv/videos/2789253575?t=15h08m23s), timestamped~~ (no longer available due to copyright)
   - Teaser Video:
@@ -24,7 +24,7 @@ This is the hub for everything related to fiaKaiera's [Furality](https://furalit
 
 - **Furality Presentation**
   - As presented:<br>
-    [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff">[via Google Slides](https://docs.google.com/presentation/d/1VY4hsQ7psvVzPkKbNsQF5K_pERHWFHBQU1qWBRBk3uE/edit?usp=sharing) ]
+    [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff"> [via Google Slides](https://docs.google.com/presentation/d/1VY4hsQ7psvVzPkKbNsQF5K_pERHWFHBQU1qWBRBk3uE/edit?usp=sharing) ]
     [ <img src="https://api.iconify.design/material-symbols:picture-as-pdf.svg?color=%23ffffff"> [PDF Download](https://raw.githubusercontent.com/fiaKaiera/vrc-shared-spaces/main/vrc-shared-spaces.pdf) ]
   - w/o the fluff: (77 slides -> 39 slides)<br>
     [ <img src="https://api.iconify.design/streamline:google-drive-solid.svg?color=%23ffffff"> [via Google Slides](https://docs.google.com/presentation/d/1TSH_4l5kAQ4mZNNTAd5nddzmEkwM7HGQs1_EEkbkMwk/edit?usp=sharing) ]
